@@ -11,7 +11,7 @@ require (
 	github.com/miekg/dns v1.1.31
 	github.com/pires/go-proxyproto v0.1.3
 	github.com/seiflotfy/cuckoofilter v0.0.0-20200511222245-56093a4d3841
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/xiaokangwang/VSign v0.0.0-20200828155424-dc1c86b73fbf
 	github.com/xtls/go v0.0.0-20200921133830-416584838a0f
 	go.starlark.net v0.0.0-20200901195727-6e684ef5eeee
